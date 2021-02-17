@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Color_Changer</string>
     <string name="name">Color Changer</string>
+    <string name="green">GREEN</string>
+    <string name="red">RED</string>
+    <string name="blue">BLUE</string>
+    <string name="yellow">YELLOW</string>
+    <string name="my_name">Vytautas Kuklys</string>
 </resources>
